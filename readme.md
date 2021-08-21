@@ -11,5 +11,6 @@ Install Homebrew formulae
 
 
 ## TODO
-[] Fedora formulae
-[] Arch formulae
+[ ] Fedora formulae
+
+[ ] Arch formulae
