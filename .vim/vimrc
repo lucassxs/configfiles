@@ -1,6 +1,4 @@
 " .vimrc
-" Author: Ana Luiza <analpbastos@gmail.com>
-" Source: http://github.com/anabastos/myvimfiles
 
 " *~~ Plug setup ~~*
 call plug#begin('~/.vim/plugged')
